@@ -1,0 +1,22 @@
+{
+  "logo": {
+    "source": "nixos_small"
+  },
+  "modules": [
+    { "type": "title" },
+    { "type": "os" },
+    { "type": "kernel" },
+    { "type": "memory" },
+    { "type": "swap" },
+    { "type": "shell" },
+    { "type": "disk" },
+    { "type": "uptime" },
+   {
+  "type": "command",
+  "key": "Born",
+  "command": "t=$(stat -c %W / 2>/dev/null); [ \"$t\" -gt 0 ] && echo $(( ( $(date +%s) - $t ) / 86400 )) days || echo unknown"},
+    { "type": "cpu" },
+    { "type": "gpu" },
+    { "type": "colors", "colors": "rainbow" }
+  ]
+}
