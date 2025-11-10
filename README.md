@@ -1,4 +1,4 @@
-# 🐧 Dennis Hilk – NixOS System Backup (`cthulhu`)
+# 🐧 Dennis Hilk – NixOS System Backup (cthulhu)
 
 ![NixOS](https://img.shields.io/badge/NixOS-25.05-blue?logo=nixos&logoColor=white)
 ![Desktop](https://img.shields.io/badge/Desktop-XFCE-orange?logo=xfce&logoColor=white)
