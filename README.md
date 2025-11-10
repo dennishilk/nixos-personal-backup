@@ -66,7 +66,18 @@ The included script `nixos-backup-local.sh` securely creates an encrypted snapsh
 - Automatically excludes browsers, cache, and secrets  
 - Compresses everything into a single `.tar.gz`  
 - Encrypts the archive with **AES-256** and a **password prompt (with confirmation)**  
-- Securely deletes the unencrypted archive after encryption  
+- Securely deletes the unencrypted archive after encryption
+
+## 🧱 Required tools
+
+Ensure these are installed (via your configuration.nix):
+
+environment.systemPackages = with pkgs; [
+  rsync
+  gnutar
+  gzip
+  openssl
+];
 
 ### 🧩 Run the backup
 ```bash
