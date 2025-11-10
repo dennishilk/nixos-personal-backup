@@ -1,0 +1,21 @@
+# Browsers & private data
+userconfig/firefox/
+userconfig/google-chrome/
+userconfig/BraveSoftware/
+userconfig/discord/
+userconfig/thunderbird/
+userconfig/vivaldi/
+userconfig/teams/
+userconfig/obsidian/
+userconfig/.cache/
+
+# Temporary or system files
+*.log
+*.tmp
+*.bak
+
+# Private keys
+*.pem
+*.key
+*.gpg
+
