@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Disable Xfwm Compositor
+Exec=xfconf-query -c xfwm4 -p /general/use_compositing -s false
+OnlyShowIn=XFCE;
+EOF
