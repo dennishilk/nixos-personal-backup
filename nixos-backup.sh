@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # =========================================================
-# Dennis Hilk – NixOS Local Backup Script (Encrypted)
-# Version: 1.0 (with password confirmation)
+# Dennis Hilk – NixOS Local Backup Script (Encrypted + Clean)
+# Version: 1.0 (with password confirmation & cleanup)
 # =========================================================
 # Secure local backup for:
 #   /etc/nixos  (System configuration)
@@ -19,11 +19,10 @@ ENCRYPTED_ARCHIVE="$BACKUP_DIR/$ARCHIVE_NAME.enc"
 echo "🧩 Starting NixOS Backup: $DATE"
 mkdir -p "$BACKUP_DIR/system" "$BACKUP_DIR/userconfig" "$BACKUP_DIR/homefiles"
 
-# ---------------------------------------------------------
 # 1️⃣ Backup system configuration (/etc/nixos)
-# ---------------------------------------------------------
 echo "📦 Backing up system configuration..."
 sudo rsync -a --delete /etc/nixos/ "$BACKUP_DIR/system/"
+sudo chown -R "$USER":users "$BACKUP_DIR/system"
 
 # ---------------------------------------------------------
 # 2️⃣ Backup user configuration (~/.config)
@@ -104,11 +103,30 @@ done
 echo "$pass1" | openssl enc -aes-256-cbc -salt -pbkdf2 \
   -in "$ARCHIVE_NAME" -out "$ENCRYPTED_ARCHIVE" -pass stdin
 
-# Remove unencrypted archive securely
-shred -u "$ARCHIVE_NAME"
+# Verify encryption success
+if [ -f "$ENCRYPTED_ARCHIVE" ]; then
+  echo "🧪 Verifying encrypted archive integrity..."
+  if openssl enc -aes-256-cbc -d -pbkdf2 -in "$ENCRYPTED_ARCHIVE" -pass pass:"$pass1" -out /dev/null 2>/dev/null; then
+    echo "✅ Encryption verified successfully."
+  else
+    echo "⚠️ Warning: Encryption test failed. Please recheck manually."
+  fi
+
+  # Remove unencrypted archive securely
+  shred -u "$ARCHIVE_NAME"
+
+  # ---------------------------------------------------------
+  # 7️⃣ Cleanup temporary files
+  # ---------------------------------------------------------
+  echo "🧹 Cleaning up temporary unencrypted backup folders..."
+  rm -rf "$BACKUP_DIR/system" "$BACKUP_DIR/userconfig" "$BACKUP_DIR/homefiles"
+  echo "✅ Cleanup completed."
+else
+  echo "❌ Encryption failed or archive missing. Keeping temporary folders for safety."
+fi
 
 # ---------------------------------------------------------
-# 7️⃣ Done
+# 8️⃣ Done
 # ---------------------------------------------------------
 echo "✅ Backup completed and encrypted successfully!"
 echo "📁 Encrypted file saved as:"
