@@ -1,0 +1,642 @@
+INFO 8.12.2025, 11:23:02  26  launch with argv [/nix/store/942qvv8r1nay6gab0d2rqimf5vv2jai4-typora-1.11.5/share/typora/Typora]
+INFO 8.12.2025, 11:23:02  84  ------------------start------------------
+DEBUG 8.12.2025, 11:23:02  89  before setting 
+DEBUG 8.12.2025, 11:23:02  102  prepDatabase /home/nebu/.config/Typora/profile.data
+DEBUG 8.12.2025, 11:23:02  103  prepDatabase /home/nebu/.config/Typora/history.data
+INFO 8.12.2025, 11:23:02  105  OS is linux 6.18.0
+INFO 8.12.2025, 11:23:02  105  launchFromDiffVersion, pre version is undefined
+INFO 8.12.2025, 11:23:02  105  start LM in devVersion=false
+INFO 8.12.2025, 11:23:02  112  overwriteThemeFolder
+DEBUG 8.12.2025, 11:23:02  113  after setting 
+INFO 8.12.2025, 11:23:02  113  typora version: 1.11.5
+DEBUG 8.12.2025, 11:23:02  116  app.openFile
+DEBUG 8.12.2025, 11:23:02  142  added recovery 1 null  (0)
+INFO 8.12.2025, 11:23:02  145  [watch L]
+DEBUG 8.12.2025, 11:23:02  145  prepDatabase /home/nebu/.config/Typora/1RUxLRMyOX
+INFO 8.12.2025, 11:23:02  147  no info
+INFO 8.12.2025, 11:23:02  147  ls put SLicense
+DEBUG 8.12.2025, 11:23:02  147  onUnfillLicense
+DEBUG 8.12.2025, 11:23:02  147  trailRemains is 15
+INFO 8.12.2025, 11:23:02  147  [L] installDate is 12/8/2025, trail remains: 15 days
+DEBUG 8.12.2025, 11:23:02  147  onUnfillLicense
+INFO 8.12.2025, 11:23:02  147  [watch L] hasL: false
+INFO 8.12.2025, 11:23:03  173  [focus] 1
+DEBUG 8.12.2025, 11:23:03  176  putAccelerator File -> Datei(&F)
+DEBUG 8.12.2025, 11:23:03  176  putAccelerator Edit -> B&earbeiten
+DEBUG 8.12.2025, 11:23:03  176  putAccelerator Paragraph -> Absatz(&P)
+DEBUG 8.12.2025, 11:23:03  176  putAccelerator Format -> F&ormat
+DEBUG 8.12.2025, 11:23:03  176  putAccelerator View -> Darstellung(&V)
+DEBUG 8.12.2025, 11:23:03  176  putAccelerator Themes -> &Themen
+DEBUG 8.12.2025, 11:23:03  176  putAccelerator Help -> &Hilfe
+INFO 8.12.2025, 11:23:03  223  synced recovery
+ERROR 8.12.2025, 11:23:03  325  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8.12.2025, 11:23:03  328  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 8.12.2025, 11:23:03  544  onUnfillLicense
+ERROR 8.12.2025, 11:23:03  552  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8.12.2025, 11:23:03  553  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 8.12.2025, 11:23:03  554  handle document.loadData
+DEBUG 8.12.2025, 11:23:03  554  document.loadData 0
+INFO 8.12.2025, 11:23:03  574  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 8.12.2025, 11:23:03  574  [RenderProcess 1][Log] reset NodeMap
+ERROR 8.12.2025, 11:23:03  580  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 8.12.2025, 11:23:03  584  added recovery 1   (0)
+INFO 8.12.2025, 11:23:03  585  synced recovery
+INFO 8.12.2025, 11:23:03  676  [RenderProcess 1][Log] onBecomeActive
+INFO 8.12.2025, 11:23:03  676  [RenderProcess 1][Log] File.activeWindow = true
+INFO 8.12.2025, 11:23:07  4851  [blur] 1
+INFO 8.12.2025, 11:23:07  4851  [win] blur
+INFO 8.12.2025, 11:23:27  24408  [focus] 1
+ERROR 8.12.2025, 11:23:29  26510  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 8.12.2025, 11:23:30  27515  added recovery 1  "# **Dennis Hilk...ehr zuverlässig" (2114)
+INFO 8.12.2025, 11:23:30  27516  synced recovery
+DEBUG 8.12.2025, 11:23:45  42825  added recovery 1  "# **Dennis Hilk...ehr zuverlässig" (2122)
+INFO 8.12.2025, 11:23:45  42826  synced recovery
+DEBUG 8.12.2025, 11:23:52  49588  added recovery 1  "# **Dennis Hilk...ehr zuverlässig" (2131)
+INFO 8.12.2025, 11:23:52  49588  synced recovery
+DEBUG 8.12.2025, 11:23:55  52678  added recovery 1  "# **Dennis Hilk...ehr zuverlässig" (2138)
+INFO 8.12.2025, 11:23:55  52678  synced recovery
+DEBUG 8.12.2025, 11:23:58  55729  added recovery 1  "# **Dennis Hilk...ehr zuverlässig" (2139)
+INFO 8.12.2025, 11:23:58  55729  synced recovery
+DEBUG 8.12.2025, 11:24:24  81487  added recovery 1  "# **Dennis Hilk...ehr zuverlässig" (2135)
+INFO 8.12.2025, 11:24:24  81487  synced recovery
+DEBUG 8.12.2025, 11:24:29  86191  added recovery 1  "# **Dennis Hilk...ehr zuverlässig" (2139)
+INFO 8.12.2025, 11:24:29  86192  synced recovery
+INFO 8.12.2025, 11:24:41  98281  load file [/tmp/Typora/1765189481087-0.4686914751858211.html] for PDF export
+INFO 8.12.2025, 11:24:41  98429  [blur] 1
+INFO 8.12.2025, 11:24:41  98429  [win] blur
+INFO 8.12.2025, 11:24:41  98623  generate print window with id [2] for [content]
+INFO 8.12.2025, 11:24:41  98847  got PDF data
+INFO 8.12.2025, 11:24:41  98848  get background color
+INFO 8.12.2025, 11:24:41  98886  load file [/tmp/Typora/1765189481721-1.html] for PDF export
+INFO 8.12.2025, 11:24:41  98973  generate print window with id [3] for [header]
+INFO 8.12.2025, 11:24:41  99034  [focus] 1
+INFO 8.12.2025, 11:24:42  99179  got PDF data
+INFO 8.12.2025, 11:24:42  99179  get background color
+INFO 8.12.2025, 11:24:42  99199  load file [/tmp/Typora/1765189482038-2.html] for PDF export
+INFO 8.12.2025, 11:24:42  99280  generate print window with id [4] for [footer]
+INFO 8.12.2025, 11:24:42  99425  [blur] 1
+INFO 8.12.2025, 11:24:42  99425  [win] blur
+INFO 8.12.2025, 11:24:42  99486  got PDF data
+INFO 8.12.2025, 11:24:42  99486  get background color
+INFO 8.12.2025, 11:25:05  122828  [focus] 1
+INFO 8.12.2025, 11:25:05  122832  [RenderProcess 1][Log] export PDF to /home/nebu/Documents/Lebenslauf Dennis Hilk.pdf
+INFO 8.12.2025, 11:25:06  123533  [blur] 1
+INFO 8.12.2025, 11:25:06  123533  [win] blur
+INFO 8.12.2025, 11:25:08  125285  [focus] 1
+INFO 8.12.2025, 11:25:08  125672  [blur] 1
+INFO 8.12.2025, 11:25:08  125672  [win] blur
+INFO 8.12.2025, 11:25:15  132497  [focus] 1
+INFO 8.12.2025, 11:25:15  132681  [blur] 1
+INFO 8.12.2025, 11:25:15  132681  [win] blur
+INFO 8.12.2025, 11:25:15  133126  [focus] 1
+INFO 8.12.2025, 11:25:15  133127  [blur] 1
+INFO 8.12.2025, 11:25:15  133127  [win] blur
+INFO 8.12.2025, 11:25:40  157348  [focus] 1
+DEBUG 8.12.2025, 11:25:45  162976  added recovery 1  "# **Dennis Hilk...ehr zuverlässig" (2123)
+INFO 8.12.2025, 11:25:45  162976  synced recovery
+INFO 8.12.2025, 11:25:48  166098  load file [/tmp/Typora/1765189548883-0.777073515157519.html] for PDF export
+INFO 8.12.2025, 11:25:49  166206  [blur] 1
+INFO 8.12.2025, 11:25:49  166206  [win] blur
+INFO 8.12.2025, 11:25:49  166269  generate print window with id [5] for [content]
+INFO 8.12.2025, 11:25:49  166490  got PDF data
+INFO 8.12.2025, 11:25:49  166491  get background color
+INFO 8.12.2025, 11:25:49  166525  load file [/tmp/Typora/1765189549362-3.html] for PDF export
+INFO 8.12.2025, 11:25:49  166587  generate print window with id [6] for [header]
+INFO 8.12.2025, 11:25:49  166793  got PDF data
+INFO 8.12.2025, 11:25:49  166794  get background color
+INFO 8.12.2025, 11:25:49  166815  load file [/tmp/Typora/1765189549654-4.html] for PDF export
+INFO 8.12.2025, 11:25:49  166916  generate print window with id [7] for [footer]
+INFO 8.12.2025, 11:25:49  167122  got PDF data
+INFO 8.12.2025, 11:25:49  167123  get background color
+INFO 8.12.2025, 11:25:51  168349  [RenderProcess 1][Log] export PDF to /home/nebu/Documents/Lebenslauf Dennis Hilk.pdf
+INFO 8.12.2025, 11:25:51  168350  [focus] 1
+INFO 8.12.2025, 11:25:51  168350  [blur] 1
+INFO 8.12.2025, 11:25:51  168350  [win] blur
+INFO 8.12.2025, 11:25:51  168350  [focus] 1
+INFO 8.12.2025, 11:25:51  169126  [blur] 1
+INFO 8.12.2025, 11:25:51  169127  [win] blur
+INFO 8.12.2025, 11:25:59  176183  [focus] 1
+INFO 8.12.2025, 11:26:03  180592  [blur] 1
+INFO 8.12.2025, 11:26:03  180592  [win] blur
+INFO 8.12.2025, 11:26:06  184016  [focus] 1
+DEBUG 8.12.2025, 11:26:43  220637  added recovery 1  "# **Dennis Hilk...ehr zuverlässig" (2117)
+INFO 8.12.2025, 11:26:43  220638  synced recovery
+DEBUG 8.12.2025, 11:26:45  222211  added recovery 1  "# **Dennis Hilk...ehr zuverlässig" (2118)
+INFO 8.12.2025, 11:26:45  222211  synced recovery
+INFO 8.12.2025, 11:26:47  224930  load file [/tmp/Typora/1765189607741-0.30242418169824226.html] for PDF export
+INFO 8.12.2025, 11:26:47  225061  [blur] 1
+INFO 8.12.2025, 11:26:47  225062  [win] blur
+INFO 8.12.2025, 11:26:47  225130  generate print window with id [8] for [content]
+INFO 8.12.2025, 11:26:48  225352  got PDF data
+INFO 8.12.2025, 11:26:48  225353  get background color
+INFO 8.12.2025, 11:26:48  225374  load file [/tmp/Typora/1765189608212-5.html] for PDF export
+INFO 8.12.2025, 11:26:48  225480  generate print window with id [9] for [header]
+INFO 8.12.2025, 11:26:48  225685  got PDF data
+INFO 8.12.2025, 11:26:48  225686  get background color
+INFO 8.12.2025, 11:26:48  225697  load file [/tmp/Typora/1765189608536-6.html] for PDF export
+INFO 8.12.2025, 11:26:48  225798  generate print window with id [10] for [footer]
+INFO 8.12.2025, 11:26:48  226004  got PDF data
+INFO 8.12.2025, 11:26:48  226004  get background color
+INFO 8.12.2025, 11:26:49  226729  [focus] 1
+INFO 8.12.2025, 11:26:49  226731  [RenderProcess 1][Log] export PDF to /home/nebu/Documents/Lebenslauf Dennis Hilk.pdf
+INFO 8.12.2025, 11:26:50  227305  [blur] 1
+INFO 8.12.2025, 11:26:50  227305  [win] blur
+INFO 8.12.2025, 11:26:53  230531  [focus] 1
+DEBUG 8.12.2025, 11:27:02  239218  added recovery 1  "# **Dennis Hilk...ig · uverlässig" (2112)
+INFO 8.12.2025, 11:27:02  239218  synced recovery
+INFO 8.12.2025, 11:27:03  240831  [blur] 1
+INFO 8.12.2025, 11:27:03  240831  [win] blur
+DEBUG 8.12.2025, 11:27:03  240836  added recovery 1  "# **Dennis Hilk...g · Zuverlässig" (2113)
+INFO 8.12.2025, 11:27:03  240836  synced recovery
+INFO 8.12.2025, 11:27:27  265113  [focus] 1
+INFO 8.12.2025, 11:27:29  266434  [blur] 1
+INFO 8.12.2025, 11:27:29  266434  [win] blur
+INFO 8.12.2025, 11:27:48  285278  [focus] 1
+DEBUG 8.12.2025, 11:27:51  288798  added recovery 1  "# **Dennis Hilk...und B**
+
+------" (2190)
+INFO 8.12.2025, 11:27:51  288799  synced recovery
+DEBUG 8.12.2025, 11:27:55  292263  added recovery 1  "# **Dennis Hilk...und B**
+
+------" (2190)
+INFO 8.12.2025, 11:27:55  292263  synced recovery
+INFO 8.12.2025, 11:27:58  295411  [blur] 1
+INFO 8.12.2025, 11:27:58  295412  [win] blur
+INFO 8.12.2025, 11:28:02  300154  [focus] 1
+DEBUG 8.12.2025, 11:28:05  302325  added recovery 1  "# **Dennis Hilk...lasse A und B**" (2182)
+INFO 8.12.2025, 11:28:05  302325  synced recovery
+DEBUG 8.12.2025, 11:28:08  305159  added recovery 1  "# **Dennis Hilk...lasse A und B**" (2182)
+INFO 8.12.2025, 11:28:08  305161  synced recovery
+INFO 8.12.2025, 11:28:14  311849  load file [/tmp/Typora/1765189694633-0.9991810222788944.html] for PDF export
+INFO 8.12.2025, 11:28:14  312076  [blur] 1
+INFO 8.12.2025, 11:28:14  312076  [win] blur
+INFO 8.12.2025, 11:28:14  312156  generate print window with id [11] for [content]
+INFO 8.12.2025, 11:28:15  312378  got PDF data
+INFO 8.12.2025, 11:28:15  312379  get background color
+INFO 8.12.2025, 11:28:15  312405  load file [/tmp/Typora/1765189695244-7.html] for PDF export
+INFO 8.12.2025, 11:28:15  312488  generate print window with id [12] for [header]
+INFO 8.12.2025, 11:28:15  312694  got PDF data
+INFO 8.12.2025, 11:28:15  312694  get background color
+INFO 8.12.2025, 11:28:15  312714  load file [/tmp/Typora/1765189695552-8.html] for PDF export
+INFO 8.12.2025, 11:28:15  312796  generate print window with id [13] for [footer]
+INFO 8.12.2025, 11:28:15  313002  got PDF data
+INFO 8.12.2025, 11:28:15  313002  get background color
+INFO 8.12.2025, 11:28:18  315530  [RenderProcess 1][Log] export PDF to /home/nebu/Documents/Lebenslauf Dennis Hilk.pdf
+INFO 8.12.2025, 11:28:18  315531  [focus] 1
+INFO 8.12.2025, 11:28:18  315537  [blur] 1
+INFO 8.12.2025, 11:28:18  315537  [win] blur
+INFO 8.12.2025, 11:28:18  315537  [focus] 1
+INFO 8.12.2025, 11:28:19  316640  [blur] 1
+INFO 8.12.2025, 11:28:19  316640  [win] blur
+INFO 8.12.2025, 11:29:29  386476  [focus] 1
+INFO 8.12.2025, 11:29:31  388751  [blur] 1
+INFO 8.12.2025, 11:29:31  388751  [win] blur
+INFO 8.12.2025, 11:29:34  391880  [focus] 1
+INFO 8.12.2025, 11:29:34  391880  [blur] 1
+INFO 8.12.2025, 11:29:34  391880  [win] blur
+INFO 8.12.2025, 11:29:34  391880  [focus] 1
+INFO 8.12.2025, 11:29:36  393488  [blur] 1
+INFO 8.12.2025, 11:29:36  393489  [win] blur
+INFO 8.12.2025, 11:29:47  404982  [focus] 1
+INFO 8.12.2025, 11:29:47  404983  addRecentDocument
+INFO 8.12.2025, 11:29:49  407001  [blur] 1
+INFO 8.12.2025, 11:29:49  407001  [win] blur
+INFO 8.12.2025, 11:29:51  408517  [focus] 1
+INFO 8.12.2025, 11:29:51  408517  [blur] 1
+INFO 8.12.2025, 11:29:51  408518  [win] blur
+INFO 8.12.2025, 11:29:51  408518  [focus] 1
+INFO 8.12.2025, 11:29:55  412932  load file [/tmp/Typora/1765189795721-0.2913691153299176.html] for PDF export
+INFO 8.12.2025, 11:29:55  413081  [blur] 1
+INFO 8.12.2025, 11:29:55  413081  [win] blur
+INFO 8.12.2025, 11:29:56  413180  generate print window with id [14] for [content]
+INFO 8.12.2025, 11:29:56  413401  got PDF data
+INFO 8.12.2025, 11:29:56  413402  get background color
+INFO 8.12.2025, 11:29:56  413423  load file [/tmp/Typora/1765189796261-9.html] for PDF export
+INFO 8.12.2025, 11:29:56  413512  generate print window with id [15] for [header]
+INFO 8.12.2025, 11:29:56  413718  got PDF data
+INFO 8.12.2025, 11:29:56  413719  get background color
+INFO 8.12.2025, 11:29:56  413730  load file [/tmp/Typora/1765189796569-10.html] for PDF export
+INFO 8.12.2025, 11:29:56  413833  generate print window with id [16] for [footer]
+INFO 8.12.2025, 11:29:56  414039  got PDF data
+INFO 8.12.2025, 11:29:56  414039  get background color
+INFO 8.12.2025, 11:30:22  439326  [focus] 1
+INFO 8.12.2025, 11:30:22  439332  [blur] 1
+INFO 8.12.2025, 11:30:22  439333  [win] blur
+INFO 8.12.2025, 11:30:41  458828  [focus] 1
+INFO 8.12.2025, 11:30:41  458829  [RenderProcess 1][Log] export PDF to /home/nebu/Documents/Dennis Hilk Lebenslauf - Endkunden-Support-Helpdesk-Remote-Support .pdf
+INFO 8.12.2025, 11:30:41  458845  [blur] 1
+INFO 8.12.2025, 11:30:41  458845  [win] blur
+INFO 8.12.2025, 11:30:41  458846  [focus] 1
+INFO 8.12.2025, 11:30:42  459437  [blur] 1
+INFO 8.12.2025, 11:30:42  459437  [win] blur
+INFO 8.12.2025, 11:31:04  482092  [focus] 1
+DEBUG 8.12.2025, 11:31:07  484300  added recovery 1 /home/nebu/Documents/Dennis Hilk lebenslaufuniv.md "# **Dennis Hilk...lasse A und B**" (2435)
+INFO 8.12.2025, 11:31:07  484301  synced recovery
+INFO 8.12.2025, 11:31:07  484769  [blur] 1
+INFO 8.12.2025, 11:31:07  484770  [win] blur
+INFO 8.12.2025, 11:31:13  491103  [focus] 1
+INFO 8.12.2025, 11:31:22  500148  load file [/tmp/Typora/1765189882942-0.9564830755597329.html] for PDF export
+INFO 8.12.2025, 11:31:23  500296  [blur] 1
+INFO 8.12.2025, 11:31:23  500296  [win] blur
+INFO 8.12.2025, 11:31:23  500390  generate print window with id [17] for [content]
+INFO 8.12.2025, 11:31:23  500678  got PDF data
+INFO 8.12.2025, 11:31:23  500679  get background color
+INFO 8.12.2025, 11:31:23  500707  load file [/tmp/Typora/1765189883546-11.html] for PDF export
+INFO 8.12.2025, 11:31:23  500798  generate print window with id [18] for [header]
+INFO 8.12.2025, 11:31:23  501004  got PDF data
+INFO 8.12.2025, 11:31:23  501005  get background color
+INFO 8.12.2025, 11:31:23  501015  load file [/tmp/Typora/1765189883854-12.html] for PDF export
+INFO 8.12.2025, 11:31:23  501110  generate print window with id [19] for [footer]
+INFO 8.12.2025, 11:31:24  501316  got PDF data
+INFO 8.12.2025, 11:31:24  501316  get background color
+INFO 8.12.2025, 11:31:26  503388  [focus] 1
+INFO 8.12.2025, 11:31:26  503477  [blur] 1
+INFO 8.12.2025, 11:31:26  503477  [win] blur
+INFO 8.12.2025, 11:31:41  518981  [focus] 1
+INFO 8.12.2025, 11:31:41  518985  [blur] 1
+INFO 8.12.2025, 11:31:41  518985  [win] blur
+INFO 8.12.2025, 11:32:02  539678  [focus] 1
+INFO 8.12.2025, 11:32:02  539678  [RenderProcess 1][Log] export PDF to /home/nebu/Documents/Dennis Hilk Lebenslauf - LinuxServer-Infrastruktur-Remote-Admin .pdf
+INFO 8.12.2025, 11:32:02  540106  [blur] 1
+INFO 8.12.2025, 11:32:02  540106  [win] blur
+INFO 8.12.2025, 11:32:41  578263  [focus] 1
+INFO 8.12.2025, 11:32:44  581894  synced recovery
+INFO 8.12.2025, 11:32:44  581894  ----------------before-quit-----------------
+INFO 8.12.2025, 11:32:44  581894  ------------------will-quit------------------
+INFO 8.12.2025, 11:32:44  581895  -----------------quit------------------
+INFO 8.12.2025, 11:32:44  581895  closeLogging
+INFO 8.12.2025, 11:38:44  25  launch with argv [/nix/store/942qvv8r1nay6gab0d2rqimf5vv2jai4-typora-1.11.5/share/typora/Typora]
+INFO 8.12.2025, 11:38:44  69  ------------------start------------------
+DEBUG 8.12.2025, 11:38:44  74  before setting 
+DEBUG 8.12.2025, 11:38:44  89  prepDatabase /home/nebu/.config/Typora/profile.data
+DEBUG 8.12.2025, 11:38:44  91  prepDatabase /home/nebu/.config/Typora/history.data
+INFO 8.12.2025, 11:38:44  93  OS is linux 6.18.0
+INFO 8.12.2025, 11:38:44  93  start LM in devVersion=false
+DEBUG 8.12.2025, 11:38:44  100  after setting 
+INFO 8.12.2025, 11:38:44  100  typora version: 1.11.5
+user-dict.json not found
+INFO 8.12.2025, 11:38:44  106  [watch L]
+DEBUG 8.12.2025, 11:38:44  106  prepDatabase /home/nebu/.config/Typora/1RUxLRMyOX
+INFO 8.12.2025, 11:38:44  108  no info
+INFO 8.12.2025, 11:38:44  108  ls put SLicense
+DEBUG 8.12.2025, 11:38:44  109  onUnfillLicense
+DEBUG 8.12.2025, 11:38:44  109  trailRemains is 15
+INFO 8.12.2025, 11:38:44  109  [L] installDate is 12/8/2025, trail remains: 15 days
+DEBUG 8.12.2025, 11:38:44  109  onUnfillLicense
+INFO 8.12.2025, 11:38:44  109  [watch L] hasL: false
+DEBUG 8.12.2025, 11:38:44  112  putAccelerator File -> Datei(&F)
+DEBUG 8.12.2025, 11:38:44  112  putAccelerator Edit -> B&earbeiten
+DEBUG 8.12.2025, 11:38:44  113  putAccelerator Paragraph -> Absatz(&P)
+DEBUG 8.12.2025, 11:38:44  113  putAccelerator Format -> F&ormat
+DEBUG 8.12.2025, 11:38:44  113  putAccelerator View -> Darstellung(&V)
+DEBUG 8.12.2025, 11:38:44  113  putAccelerator Themes -> &Themen
+DEBUG 8.12.2025, 11:38:44  113  putAccelerator Help -> &Hilfe
+DEBUG 8.12.2025, 11:38:44  119  app.openFile
+DEBUG 8.12.2025, 11:38:44  144  added recovery 1 null  (0)
+INFO 8.12.2025, 11:38:44  145  [focus] 1
+INFO 8.12.2025, 11:38:44  212  synced recovery
+ERROR 8.12.2025, 11:38:44  305  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8.12.2025, 11:38:44  306  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 8.12.2025, 11:38:44  510  onUnfillLicense
+ERROR 8.12.2025, 11:38:44  539  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8.12.2025, 11:38:44  539  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 8.12.2025, 11:38:44  541  handle document.loadData
+DEBUG 8.12.2025, 11:38:44  541  document.loadData 0
+ERROR 8.12.2025, 11:38:44  561  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8.12.2025, 11:38:44  562  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 8.12.2025, 11:38:44  567  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 8.12.2025, 11:38:44  567  [RenderProcess 1][Log] reset NodeMap
+DEBUG 8.12.2025, 11:38:44  574  added recovery 1   (0)
+INFO 8.12.2025, 11:38:44  575  synced recovery
+INFO 8.12.2025, 11:38:44  660  [RenderProcess 1][Log] onBecomeActive
+INFO 8.12.2025, 11:38:44  660  [RenderProcess 1][Log] File.activeWindow = true
+INFO 8.12.2025, 11:38:45  1183  synced recovery
+INFO 8.12.2025, 11:38:45  1183  ----------------before-quit-----------------
+INFO 8.12.2025, 11:38:45  1183  ------------------will-quit------------------
+INFO 8.12.2025, 11:38:45  1184  -----------------quit------------------
+INFO 8.12.2025, 11:38:45  1184  closeLogging
+INFO 8.12.2025, 12:29:24  32  launch with argv [/nix/store/942qvv8r1nay6gab0d2rqimf5vv2jai4-typora-1.11.5/share/typora/Typora]
+INFO 8.12.2025, 12:29:24  98  ------------------start------------------
+DEBUG 8.12.2025, 12:29:24  112  before setting 
+DEBUG 8.12.2025, 12:29:24  126  prepDatabase /home/nebu/.config/Typora/profile.data
+DEBUG 8.12.2025, 12:29:24  128  prepDatabase /home/nebu/.config/Typora/history.data
+INFO 8.12.2025, 12:29:24  130  OS is linux 6.18.0
+INFO 8.12.2025, 12:29:24  130  start LM in devVersion=false
+DEBUG 8.12.2025, 12:29:24  138  after setting 
+INFO 8.12.2025, 12:29:24  138  typora version: 1.11.5
+user-dict.json not found
+INFO 8.12.2025, 12:29:24  147  [watch L]
+DEBUG 8.12.2025, 12:29:24  147  prepDatabase /home/nebu/.config/Typora/1RUxLRMyOX
+INFO 8.12.2025, 12:29:24  150  no info
+INFO 8.12.2025, 12:29:24  150  ls put SLicense
+DEBUG 8.12.2025, 12:29:24  150  onUnfillLicense
+DEBUG 8.12.2025, 12:29:24  150  trailRemains is 15
+INFO 8.12.2025, 12:29:24  151  [L] installDate is 12/8/2025, trail remains: 15 days
+DEBUG 8.12.2025, 12:29:24  151  onUnfillLicense
+INFO 8.12.2025, 12:29:24  151  [watch L] hasL: false
+DEBUG 8.12.2025, 12:29:24  154  app.openFile
+DEBUG 8.12.2025, 12:29:24  154  putAccelerator File -> Datei(&F)
+DEBUG 8.12.2025, 12:29:24  155  putAccelerator Edit -> B&earbeiten
+DEBUG 8.12.2025, 12:29:24  155  putAccelerator Paragraph -> Absatz(&P)
+DEBUG 8.12.2025, 12:29:24  155  putAccelerator Format -> F&ormat
+DEBUG 8.12.2025, 12:29:24  155  putAccelerator View -> Darstellung(&V)
+DEBUG 8.12.2025, 12:29:24  155  putAccelerator Themes -> &Themen
+DEBUG 8.12.2025, 12:29:24  155  putAccelerator Help -> &Hilfe
+DEBUG 8.12.2025, 12:29:24  202  added recovery 1 null  (0)
+INFO 8.12.2025, 12:29:24  203  [focus] 1
+INFO 8.12.2025, 12:29:24  241  synced recovery
+ERROR 8.12.2025, 12:29:24  363  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8.12.2025, 12:29:24  365  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 8.12.2025, 12:29:25  573  onUnfillLicense
+ERROR 8.12.2025, 12:29:25  582  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8.12.2025, 12:29:25  582  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 8.12.2025, 12:29:25  583  handle document.loadData
+DEBUG 8.12.2025, 12:29:25  583  document.loadData 0
+INFO 8.12.2025, 12:29:25  603  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 8.12.2025, 12:29:25  603  [RenderProcess 1][Log] reset NodeMap
+ERROR 8.12.2025, 12:29:25  609  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 8.12.2025, 12:29:25  613  added recovery 1   (0)
+INFO 8.12.2025, 12:29:25  614  synced recovery
+INFO 8.12.2025, 12:29:25  705  [RenderProcess 1][Log] onBecomeActive
+INFO 8.12.2025, 12:29:25  705  [RenderProcess 1][Log] File.activeWindow = true
+INFO 8.12.2025, 12:29:25  772  [blur] 1
+INFO 8.12.2025, 12:29:25  772  [win] blur
+INFO 8.12.2025, 12:29:29  4874  [focus] 1
+DEBUG 8.12.2025, 12:29:31  6949  added recovery 1  "Betreff: Bewerb...ßen
+Dennis Hilk" (1338)
+INFO 8.12.2025, 12:29:31  6949  synced recovery
+INFO 8.12.2025, 12:29:37  13069  load file [/tmp/Typora/1765193377601-0.5640580796613264.html] for PDF export
+INFO 8.12.2025, 12:29:37  13190  [blur] 1
+INFO 8.12.2025, 12:29:37  13190  [win] blur
+INFO 8.12.2025, 12:29:37  13340  generate print window with id [2] for [content]
+INFO 8.12.2025, 12:29:38  13555  got PDF data
+INFO 8.12.2025, 12:29:38  13556  get background color
+INFO 8.12.2025, 12:29:38  13577  load file [/tmp/Typora/1765193378137-1.html] for PDF export
+INFO 8.12.2025, 12:29:38  13684  generate print window with id [3] for [header]
+INFO 8.12.2025, 12:29:38  13889  got PDF data
+INFO 8.12.2025, 12:29:38  13889  get background color
+INFO 8.12.2025, 12:29:38  13901  load file [/tmp/Typora/1765193378461-2.html] for PDF export
+INFO 8.12.2025, 12:29:38  13995  generate print window with id [4] for [footer]
+INFO 8.12.2025, 12:29:38  14201  got PDF data
+INFO 8.12.2025, 12:29:38  14201  get background color
+INFO 8.12.2025, 12:29:51  27247  [focus] 1
+INFO 8.12.2025, 12:29:51  27248  [blur] 1
+INFO 8.12.2025, 12:29:51  27248  [win] blur
+INFO 8.12.2025, 12:29:51  27248  [focus] 1
+INFO 8.12.2025, 12:29:51  27249  [RenderProcess 1][Log] export PDF to /home/nebu/Documents/intercon/Bewerbung.pdf
+INFO 8.12.2025, 12:29:58  33489  [blur] 1
+INFO 8.12.2025, 12:29:58  33489  [win] blur
+INFO 8.12.2025, 12:29:58  33749  [focus] 1
+INFO 8.12.2025, 12:29:59  35183  [blur] 1
+INFO 8.12.2025, 12:29:59  35183  [win] blur
+INFO 8.12.2025, 12:30:04  40096  [focus] 1
+INFO 8.12.2025, 12:30:04  40098  [blur] 1
+INFO 8.12.2025, 12:30:04  40098  [win] blur
+INFO 8.12.2025, 12:30:04  40099  [focus] 1
+INFO 8.12.2025, 12:30:08  44412  synced recovery
+INFO 8.12.2025, 12:30:08  44412  ----------------before-quit-----------------
+INFO 8.12.2025, 12:30:08  44412  ------------------will-quit------------------
+INFO 8.12.2025, 12:30:08  44412  -----------------quit------------------
+INFO 8.12.2025, 12:30:08  44412  closeLogging
+INFO 10.12.2025, 20:31:43  34  launch with argv [/nix/store/942qvv8r1nay6gab0d2rqimf5vv2jai4-typora-1.11.5/share/typora/Typora]
+INFO 10.12.2025, 20:31:44  99  ------------------start------------------
+DEBUG 10.12.2025, 20:31:44  114  before setting 
+DEBUG 10.12.2025, 20:31:44  129  prepDatabase /home/nebu/.config/Typora/profile.data
+DEBUG 10.12.2025, 20:31:44  131  prepDatabase /home/nebu/.config/Typora/history.data
+INFO 10.12.2025, 20:31:44  133  OS is linux 6.18.0
+INFO 10.12.2025, 20:31:44  133  start LM in devVersion=false
+DEBUG 10.12.2025, 20:31:44  141  after setting 
+INFO 10.12.2025, 20:31:44  141  typora version: 1.11.5
+INFO 10.12.2025, 20:31:44  169  [watch L]
+DEBUG 10.12.2025, 20:31:44  169  prepDatabase /home/nebu/.config/Typora/1RUxLRMyOX
+INFO 10.12.2025, 20:31:44  171  no info
+INFO 10.12.2025, 20:31:44  171  ls put SLicense
+DEBUG 10.12.2025, 20:31:44  171  onUnfillLicense
+DEBUG 10.12.2025, 20:31:44  171  trailRemains is 13
+INFO 10.12.2025, 20:31:44  172  [L] installDate is 12/8/2025, trail remains: 13 days
+DEBUG 10.12.2025, 20:31:44  172  onUnfillLicense
+INFO 10.12.2025, 20:31:44  172  [watch L] hasL: false
+user-dict.json not found
+DEBUG 10.12.2025, 20:31:44  178  app.openFile
+DEBUG 10.12.2025, 20:31:44  178  putAccelerator File -> Datei(&F)
+DEBUG 10.12.2025, 20:31:44  179  putAccelerator Edit -> B&earbeiten
+DEBUG 10.12.2025, 20:31:44  179  putAccelerator Paragraph -> Absatz(&P)
+DEBUG 10.12.2025, 20:31:44  179  putAccelerator Format -> F&ormat
+DEBUG 10.12.2025, 20:31:44  179  putAccelerator View -> Darstellung(&V)
+DEBUG 10.12.2025, 20:31:44  179  putAccelerator Themes -> &Themen
+DEBUG 10.12.2025, 20:31:44  179  putAccelerator Help -> &Hilfe
+DEBUG 10.12.2025, 20:31:44  230  added recovery 1 null  (0)
+INFO 10.12.2025, 20:31:44  232  [focus] 1
+INFO 10.12.2025, 20:31:44  284  synced recovery
+INFO 10.12.2025, 20:31:44  385  [blur] 1
+INFO 10.12.2025, 20:31:44  385  [win] blur
+ERROR 10.12.2025, 20:31:44  394  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10.12.2025, 20:31:44  413  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 10.12.2025, 20:31:44  663  onUnfillLicense
+INFO 10.12.2025, 20:31:44  721  [focus] 1
+ERROR 10.12.2025, 20:31:44  723  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10.12.2025, 20:31:44  724  handle document.loadData
+DEBUG 10.12.2025, 20:31:44  724  document.loadData 0
+ERROR 10.12.2025, 20:31:44  724  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10.12.2025, 20:31:44  745  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10.12.2025, 20:31:44  746  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10.12.2025, 20:31:44  749  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 10.12.2025, 20:31:44  749  [RenderProcess 1][Log] reset NodeMap
+DEBUG 10.12.2025, 20:31:44  758  added recovery 1   (0)
+INFO 10.12.2025, 20:31:44  759  synced recovery
+INFO 10.12.2025, 20:31:44  874  [RenderProcess 1][Log] onBecomeActive
+INFO 10.12.2025, 20:31:44  874  [RenderProcess 1][Log] File.activeWindow = true
+INFO 10.12.2025, 20:31:44  930  [blur] 1
+INFO 10.12.2025, 20:31:44  930  [win] blur
+INFO 10.12.2025, 20:31:52  8357  [focus] 1
+DEBUG 10.12.2025, 20:31:54  10849  added recovery 1  "Sehr geehrte Da...**Dennis Hilk**" (1237)
+INFO 10.12.2025, 20:31:54  10850  synced recovery
+INFO 10.12.2025, 20:32:10  26267  load file [/tmp/Typora/1765395130134-0.6639895406515448.html] for PDF export
+INFO 10.12.2025, 20:32:10  26356  generate print window with id [2] for [content]
+INFO 10.12.2025, 20:32:10  26433  [blur] 1
+INFO 10.12.2025, 20:32:10  26433  [win] blur
+INFO 10.12.2025, 20:32:10  26575  got PDF data
+INFO 10.12.2025, 20:32:10  26576  get background color
+INFO 10.12.2025, 20:32:10  26629  load file [/tmp/Typora/1765395130536-1.html] for PDF export
+INFO 10.12.2025, 20:32:10  26632  [focus] 1
+INFO 10.12.2025, 20:32:10  26675  [blur] 1
+INFO 10.12.2025, 20:32:10  26675  [win] blur
+INFO 10.12.2025, 20:32:10  26687  generate print window with id [3] for [header]
+INFO 10.12.2025, 20:32:10  26894  got PDF data
+INFO 10.12.2025, 20:32:10  26895  get background color
+INFO 10.12.2025, 20:32:10  26904  load file [/tmp/Typora/1765395130813-2.html] for PDF export
+INFO 10.12.2025, 20:32:10  26952  [focus] 1
+INFO 10.12.2025, 20:32:10  27020  generate print window with id [4] for [footer]
+INFO 10.12.2025, 20:32:10  27084  [blur] 1
+INFO 10.12.2025, 20:32:10  27084  [win] blur
+INFO 10.12.2025, 20:32:11  27232  got PDF data
+INFO 10.12.2025, 20:32:11  27232  get background color
+INFO 10.12.2025, 20:32:26  43021  [RenderProcess 1][Log] export PDF to /Dennis_Hilk_Bewerbung.pdf
+INFO 10.12.2025, 20:32:26  43046  [focus] 1
+INFO 10.12.2025, 20:32:27  43440  [blur] 1
+INFO 10.12.2025, 20:32:27  43440  [win] blur
+INFO 10.12.2025, 20:32:27  44032  [focus] 1
+INFO 10.12.2025, 20:32:30  46147  [blur] 1
+INFO 10.12.2025, 20:32:30  46147  [win] blur
+INFO 10.12.2025, 20:32:49  65320  [focus] 1
+INFO 10.12.2025, 20:32:49  65403  [blur] 1
+INFO 10.12.2025, 20:32:49  65403  [win] blur
+INFO 10.12.2025, 20:32:50  66432  [focus] 1
+INFO 10.12.2025, 20:32:50  66446  [blur] 1
+INFO 10.12.2025, 20:32:50  66446  [win] blur
+INFO 10.12.2025, 20:33:02  78749  [focus] 1
+INFO 10.12.2025, 20:33:04  80873  [blur] 1
+INFO 10.12.2025, 20:33:04  80873  [win] blur
+INFO 10.12.2025, 20:33:07  83946  [focus] 1
+INFO 10.12.2025, 20:33:13  89133  load file [/tmp/Typora/1765395193000-0.34891350618124384.html] for PDF export
+INFO 10.12.2025, 20:33:13  89249  generate print window with id [5] for [content]
+INFO 10.12.2025, 20:33:13  89266  [blur] 1
+INFO 10.12.2025, 20:33:13  89266  [win] blur
+INFO 10.12.2025, 20:33:13  89353  [focus] 1
+INFO 10.12.2025, 20:33:13  89366  [blur] 1
+INFO 10.12.2025, 20:33:13  89366  [win] blur
+INFO 10.12.2025, 20:33:13  89464  got PDF data
+INFO 10.12.2025, 20:33:13  89465  get background color
+INFO 10.12.2025, 20:33:13  89489  load file [/tmp/Typora/1765395193397-3.html] for PDF export
+INFO 10.12.2025, 20:33:13  89587  generate print window with id [6] for [header]
+INFO 10.12.2025, 20:33:13  89794  got PDF data
+INFO 10.12.2025, 20:33:13  89795  get background color
+INFO 10.12.2025, 20:33:13  89807  load file [/tmp/Typora/1765395193716-4.html] for PDF export
+INFO 10.12.2025, 20:33:13  89903  generate print window with id [7] for [footer]
+INFO 10.12.2025, 20:33:14  90109  got PDF data
+INFO 10.12.2025, 20:33:14  90109  get background color
+INFO 10.12.2025, 20:33:43  119365  [RenderProcess 1][Log] export PDF to /home/nebu/Documents/Bewerbung Dennis Hilk.pdf
+INFO 10.12.2025, 20:33:43  119380  [focus] 1
+INFO 10.12.2025, 20:33:43  119715  [blur] 1
+INFO 10.12.2025, 20:33:43  119715  [win] blur
+INFO 10.12.2025, 20:33:44  120992  [focus] 1
+INFO 10.12.2025, 20:33:44  121061  [blur] 1
+INFO 10.12.2025, 20:33:44  121061  [win] blur
+INFO 10.12.2025, 20:33:58  134091  [focus] 1
+INFO 10.12.2025, 20:33:58  134300  [blur] 1
+INFO 10.12.2025, 20:33:58  134300  [win] blur
+INFO 10.12.2025, 20:33:59  135620  [focus] 1
+INFO 10.12.2025, 20:34:01  137897  [blur] 1
+INFO 10.12.2025, 20:34:01  137897  [win] blur
+INFO 10.12.2025, 20:34:01  137993  [focus] 1
+INFO 10.12.2025, 20:34:03  139230  synced recovery
+INFO 10.12.2025, 20:34:03  139230  ----------------before-quit-----------------
+INFO 10.12.2025, 20:34:03  139230  ------------------will-quit------------------
+INFO 10.12.2025, 20:34:03  139230  -----------------quit------------------
+INFO 10.12.2025, 20:34:03  139230  closeLogging
+INFO 11.12.2025, 07:40:09  32  launch with argv [/nix/store/942qvv8r1nay6gab0d2rqimf5vv2jai4-typora-1.11.5/share/typora/Typora]
+INFO 11.12.2025, 07:40:09  103  ------------------start------------------
+DEBUG 11.12.2025, 07:40:09  117  before setting 
+DEBUG 11.12.2025, 07:40:09  132  prepDatabase /home/nebu/.config/Typora/profile.data
+DEBUG 11.12.2025, 07:40:09  133  prepDatabase /home/nebu/.config/Typora/history.data
+INFO 11.12.2025, 07:40:09  135  OS is linux 6.18.0
+INFO 11.12.2025, 07:40:09  135  start LM in devVersion=false
+DEBUG 11.12.2025, 07:40:09  142  after setting 
+INFO 11.12.2025, 07:40:09  142  typora version: 1.11.5
+INFO 11.12.2025, 07:40:09  172  [watch L]
+DEBUG 11.12.2025, 07:40:09  172  prepDatabase /home/nebu/.config/Typora/1RUxLRMyOX
+INFO 11.12.2025, 07:40:09  175  no info
+INFO 11.12.2025, 07:40:09  175  ls put SLicense
+DEBUG 11.12.2025, 07:40:09  175  onUnfillLicense
+DEBUG 11.12.2025, 07:40:09  176  trailRemains is 13
+INFO 11.12.2025, 07:40:09  176  [L] installDate is 12/8/2025, trail remains: 13 days
+DEBUG 11.12.2025, 07:40:09  176  onUnfillLicense
+INFO 11.12.2025, 07:40:09  176  [watch L] hasL: false
+user-dict.json not found
+DEBUG 11.12.2025, 07:40:09  182  app.openFile
+DEBUG 11.12.2025, 07:40:09  217  putAccelerator File -> Datei(&F)
+DEBUG 11.12.2025, 07:40:09  218  putAccelerator Edit -> B&earbeiten
+DEBUG 11.12.2025, 07:40:09  218  putAccelerator Paragraph -> Absatz(&P)
+DEBUG 11.12.2025, 07:40:09  218  putAccelerator Format -> F&ormat
+DEBUG 11.12.2025, 07:40:09  218  putAccelerator View -> Darstellung(&V)
+DEBUG 11.12.2025, 07:40:09  218  putAccelerator Themes -> &Themen
+DEBUG 11.12.2025, 07:40:09  218  putAccelerator Help -> &Hilfe
+DEBUG 11.12.2025, 07:40:09  249  added recovery 2 null  (0)
+INFO 11.12.2025, 07:40:09  321  [focus] 2
+INFO 11.12.2025, 07:40:09  329  synced recovery
+ERROR 11.12.2025, 07:40:09  433  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 11.12.2025, 07:40:09  434  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 11.12.2025, 07:40:09  647  onUnfillLicense
+ERROR 11.12.2025, 07:40:09  657  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 11.12.2025, 07:40:09  658  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 11.12.2025, 07:40:09  659  handle document.loadData
+DEBUG 11.12.2025, 07:40:09  659  document.loadData 0
+INFO 11.12.2025, 07:40:09  677  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 11.12.2025, 07:40:09  677  [RenderProcess 2][Log] reset NodeMap
+ERROR 11.12.2025, 07:40:09  682  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 11.12.2025, 07:40:09  685  added recovery 2   (0)
+INFO 11.12.2025, 07:40:09  687  synced recovery
+INFO 11.12.2025, 07:40:09  774  [RenderProcess 2][Log] onBecomeActive
+INFO 11.12.2025, 07:40:09  774  [RenderProcess 2][Log] File.activeWindow = true
+INFO 11.12.2025, 07:40:11  2217  [focus] 1
+INFO 11.12.2025, 07:40:13  4483  [blur] 1
+INFO 11.12.2025, 07:40:14  5706  [focus] 1
+INFO 11.12.2025, 07:40:17  8372  [blur] 1
+INFO 11.12.2025, 07:40:27  18301  [focus] 1
+INFO 11.12.2025, 07:40:27  18536  [blur] 1
+INFO 11.12.2025, 07:40:49  40704  [focus] 1
+INFO 11.12.2025, 07:40:49  40753  [blur] 1
+INFO 11.12.2025, 07:40:52  43465  [focus] 1
+INFO 11.12.2025, 07:40:53  44401  [blur] 1
+INFO 11.12.2025, 07:40:53  44473  [focus] 1
+INFO 11.12.2025, 07:40:54  45319  synced recovery
+INFO 11.12.2025, 07:40:54  45319  ----------------before-quit-----------------
+INFO 11.12.2025, 07:40:54  45319  ------------------will-quit------------------
+INFO 11.12.2025, 07:40:54  45320  -----------------quit------------------
+INFO 11.12.2025, 07:40:54  45320  closeLogging

@@ -1,0 +1,29 @@
+# Kitty-Konfiguration für Transparenz und Farbanpassung
+
+# Hintergrund-Transparenz aktivieren
+background_opacity 0.8
+
+# Hintergrundfarbe (schwarz)
+background #000000
+
+# Schriftfarbe (Kitty-Lila, passend zu deinem Rofi-Thema)
+foreground #CBA6F7
+
+# Schriftart (JetBrainsMono Nerd Font)
+font_family JetBrainsMono Nerd Font
+font_size 16.0
+
+# Anti-Aliasing aktivieren
+enable_ligatures yes
+
+# Weitere Einstellungen für das Design
+scrollback_lines 10000
+use_pixmap_cache yes
+allow_remote_control yes
+
+# Cursor-Einstellungen
+cursor_shape block
+cursor_underline_thickness 2
+
+# Übergänge und Animationen für glatte Benutzererfahrung
+scrollback_pager yes
